@@ -1,0 +1,5 @@
+A scene is a level.
+To change the camera background, select the Main Camera and change the background color under it.
+
+To add our imported image to the canvas, we need to go GameObject -> UI -> Image. Adds an empty image.
+To connect the image to the empty image, you need to drag the image we have imported from the assets onto the source image area when the Image is selected.
