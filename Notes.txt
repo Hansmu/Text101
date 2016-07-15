@@ -3,3 +3,6 @@ To change the camera background, select the Main Camera and change the backgroun
 
 To add our imported image to the canvas, we need to go GameObject -> UI -> Image. Adds an empty image.
 To connect the image to the empty image, you need to drag the image we have imported from the assets onto the source image area when the Image is selected.
+
+To build a game go into File -> Build Settings. Put the scene into the build and select the Player Settings from below.
+Choose the resolution and background. Build and run. To upload to the course address, put the parent folder in a zip and upload the zip.
